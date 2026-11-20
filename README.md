@@ -1,5 +1,6 @@
 # 5g-as-fast-as-possible
 Learn about cellular netowrks and even build your own :O
+
 Cellular netowking is a topic most ppl dont know much about becuase and there isnt much info about it online and overall its very gaetkept so heres a bunch of resources i found where you can learn how real cellular networks operate and even how to make your own yay!
 
 # Get started with private 5g
